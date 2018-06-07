@@ -47,5 +47,5 @@
             "status" : "pending"
         }  
    ],
-  "success":{"userId":"00500000000005AAA"},
+  "success": { "userId": "00500000000005AAA" }
 }
