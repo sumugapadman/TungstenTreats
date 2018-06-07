@@ -1,0 +1,50 @@
+{
+  "users": [
+    { "id" : "1", "username": "sumuga@force.com", "password": "helloworld" },
+    { "id": 2, "username": "spadman@force.com", "password" : "helloworld" }
+  ],
+  "tasks": [
+      {
+            "id" : "1",
+            "description" : "Hit the gym ",
+            "category" : "Routine",
+            "date" : "2018-06-05",
+            "status" :"completed"
+        },     
+        {
+            "id" : "2",
+            "description" : "Pay bills",
+            "category" : "Home",
+            "date" : "2018-06-05",
+            "status" :"completed"
+        },
+        {
+            "id" : "3",
+            "description" : "Meet George",
+            "category" : "Work",
+            "date" : "2018-06-05",
+            "status" : "pending"
+        },
+        {
+            "id" : "4",
+            "description" : "Buy eggs",
+            "category" : "Routine",
+            "date" : "2018-06-05",
+            "status" : "pending"
+        },
+        {
+            "id" : "5",
+            "description" : "Read a book",
+            "category" : "Routine",
+            "date" : "2018-06-05",
+            "status" : "pending"
+        },
+        {
+            "id" : "6",
+            "description" : "Organize office",
+            "category" : "Work",
+            "date" : "2018-06-05",
+            "status" : "pending"
+        }  
+   ]
+}
